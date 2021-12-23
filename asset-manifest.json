@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/kapps/static/css/main.c2beb734.css",
-    "main.js": "/kapps/static/js/main.a8f04e4e.js",
+    "main.js": "/kapps/static/js/main.a800e3f6.js",
     "static/js/787.3368d7cf.chunk.js": "/kapps/static/js/787.3368d7cf.chunk.js",
     "static/media/karthik.jpg": "/kapps/static/media/karthik.17523406dea8824b5f9b.jpg",
     "index.html": "/kapps/index.html",
     "main.c2beb734.css.map": "/kapps/static/css/main.c2beb734.css.map",
-    "main.a8f04e4e.js.map": "/kapps/static/js/main.a8f04e4e.js.map",
+    "main.a800e3f6.js.map": "/kapps/static/js/main.a800e3f6.js.map",
     "787.3368d7cf.chunk.js.map": "/kapps/static/js/787.3368d7cf.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c2beb734.css",
-    "static/js/main.a8f04e4e.js"
+    "static/js/main.a800e3f6.js"
   ]
 }
