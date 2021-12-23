@@ -1,16 +1,23 @@
 {
   "files": {
     "main.css": "/kapps/static/css/main.9eff9a3d.css",
-    "main.js": "/kapps/static/js/main.0ef7f65a.js",
+    "main.js": "/kapps/static/js/main.0905a76c.js",
     "static/js/787.3368d7cf.chunk.js": "/kapps/static/js/787.3368d7cf.chunk.js",
+    "static/media/1.jpg": "/kapps/static/media/1.6113130fb04fda0ec01b.jpg",
+    "static/media/10.JPG": "/kapps/static/media/10.46191bd9fe0818b30b64.JPG",
+    "static/media/9.jpg": "/kapps/static/media/9.8f230db14f4a1a045256.jpg",
+    "static/media/2.JPG": "/kapps/static/media/2.63d55164f7fc46c33c6b.JPG",
+    "static/media/6.jpg": "/kapps/static/media/6.b996eae4d1d11fd324d3.jpg",
+    "static/media/4.jpg": "/kapps/static/media/4.55c5495bdfea60f8ceab.jpg",
+    "static/media/5.jpg": "/kapps/static/media/5.e8a7fbd477fee955e015.jpg",
     "static/media/karthik.jpg": "/kapps/static/media/karthik.17523406dea8824b5f9b.jpg",
     "index.html": "/kapps/index.html",
     "main.9eff9a3d.css.map": "/kapps/static/css/main.9eff9a3d.css.map",
-    "main.0ef7f65a.js.map": "/kapps/static/js/main.0ef7f65a.js.map",
+    "main.0905a76c.js.map": "/kapps/static/js/main.0905a76c.js.map",
     "787.3368d7cf.chunk.js.map": "/kapps/static/js/787.3368d7cf.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9eff9a3d.css",
-    "static/js/main.0ef7f65a.js"
+    "static/js/main.0905a76c.js"
   ]
 }
