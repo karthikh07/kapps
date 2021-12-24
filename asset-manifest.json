@@ -1,23 +1,25 @@
 {
   "files": {
-    "main.css": "/kapps/static/css/main.9eff9a3d.css",
-    "main.js": "/kapps/static/js/main.acf2d86d.js",
+    "main.css": "/kapps/static/css/main.7051ef27.css",
+    "main.js": "/kapps/static/js/main.8e0fb90b.js",
     "static/js/787.3368d7cf.chunk.js": "/kapps/static/js/787.3368d7cf.chunk.js",
     "static/media/11 (3).jpg": "/kapps/static/media/11 (3).b0ee427be9e49fd323f7.jpg",
-    "static/media/11 (7).jpg": "/kapps/static/media/11 (7).6e82c48982b8da5a7806.jpg",
     "static/media/11 (1).jpg": "/kapps/static/media/11 (1).c214fd517d5ac2a99d31.jpg",
     "static/media/11 (8).jpg": "/kapps/static/media/11 (8).74e398852e7bd707d4f9.jpg",
+    "static/media/3.jpg": "/kapps/static/media/3.8d8ee225508a4a845608.jpg",
     "static/media/11 (4).jpg": "/kapps/static/media/11 (4).188e6a015a5ba9d3174f.jpg",
-    "static/media/11 (2).jpg": "/kapps/static/media/11 (2).ae17cdac3663a40c96d1.jpg",
-    "static/media/4.jpg": "/kapps/static/media/4.55c5495bdfea60f8ceab.jpg",
+    "static/media/2.jpg": "/kapps/static/media/2.cdd406cde468fcc39895.jpg",
+    "static/media/1.jpg": "/kapps/static/media/1.85f480279aecd0df7671.jpg",
+    "static/media/bvb.jpg": "/kapps/static/media/bvb.040aa8adc710175e9f47.jpg",
     "static/media/karthik.jpg": "/kapps/static/media/karthik.17523406dea8824b5f9b.jpg",
+    "static/media/klecim.jpg": "/kapps/static/media/klecim.feff049a9b559fdcb0e5.jpg",
     "index.html": "/kapps/index.html",
-    "main.9eff9a3d.css.map": "/kapps/static/css/main.9eff9a3d.css.map",
-    "main.acf2d86d.js.map": "/kapps/static/js/main.acf2d86d.js.map",
+    "main.7051ef27.css.map": "/kapps/static/css/main.7051ef27.css.map",
+    "main.8e0fb90b.js.map": "/kapps/static/js/main.8e0fb90b.js.map",
     "787.3368d7cf.chunk.js.map": "/kapps/static/js/787.3368d7cf.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9eff9a3d.css",
-    "static/js/main.acf2d86d.js"
+    "static/css/main.7051ef27.css",
+    "static/js/main.8e0fb90b.js"
   ]
 }
