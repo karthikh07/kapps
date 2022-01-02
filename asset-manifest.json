@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/kapps/static/css/main.d230d9f9.css",
-    "main.js": "/kapps/static/js/main.bed83735.js",
+    "main.css": "/kapps/static/css/main.2b6daf90.css",
+    "main.js": "/kapps/static/js/main.ada5cc68.js",
     "static/js/787.3368d7cf.chunk.js": "/kapps/static/js/787.3368d7cf.chunk.js",
     "static/media/11 (3).jpg": "/kapps/static/media/11 (3).b0ee427be9e49fd323f7.jpg",
     "static/media/korea.JPG": "/kapps/static/media/korea.3a8673819b52f326989f.JPG",
@@ -12,18 +12,29 @@
     "static/media/2.jpg": "/kapps/static/media/2.cdd406cde468fcc39895.jpg",
     "static/media/1.jpg": "/kapps/static/media/1.85f480279aecd0df7671.jpg",
     "static/media/infy.jpg": "/kapps/static/media/infy.b6939a95a7ab88456b9a.jpg",
+    "static/media/velodyne.png": "/kapps/static/media/velodyne.dd0987df16149ed7faf5.png",
+    "static/media/imgprocess.png": "/kapps/static/media/imgprocess.590acc013db02922709d.png",
+    "static/media/machinehealth.jpg": "/kapps/static/media/machinehealth.bbe600ed85916f6d2fae.jpg",
+    "static/media/incubator.jpg": "/kapps/static/media/incubator.5dafd7e0d52dbe593a6c.jpg",
     "static/media/bvb.jpg": "/kapps/static/media/bvb.040aa8adc710175e9f47.jpg",
+    "static/media/sorting.jpg": "/kapps/static/media/sorting.867f3345cbf0189de06c.jpg",
+    "static/media/southkorea.JPG": "/kapps/static/media/southkorea.0f446d4cda579b953130.JPG",
+    "static/media/robocon.jpg": "/kapps/static/media/robocon.8708f5c86162af8da7d7.jpg",
+    "static/media/homeauto.jpg": "/kapps/static/media/homeauto.ccba4bf14c77d1130452.jpg",
+    "static/media/printer.jpg": "/kapps/static/media/printer.f13ff9cbd6a970249463.jpg",
     "static/media/karthik.jpg": "/kapps/static/media/karthik.17523406dea8824b5f9b.jpg",
     "static/media/ieee.png": "/kapps/static/media/ieee.afc7672e5bd9b388828d.png",
+    "static/media/action.jpg": "/kapps/static/media/action.c05af4d12c5a992b4364.jpg",
     "static/media/klecim.jpg": "/kapps/static/media/klecim.feff049a9b559fdcb0e5.jpg",
+    "static/media/website.jpg": "/kapps/static/media/website.d55d5785142aa15db954.jpg",
     "static/media/infy_logo.jpg": "/kapps/static/media/infy_logo.245fc507f473db43b562.jpg",
     "index.html": "/kapps/index.html",
-    "main.d230d9f9.css.map": "/kapps/static/css/main.d230d9f9.css.map",
-    "main.bed83735.js.map": "/kapps/static/js/main.bed83735.js.map",
+    "main.2b6daf90.css.map": "/kapps/static/css/main.2b6daf90.css.map",
+    "main.ada5cc68.js.map": "/kapps/static/js/main.ada5cc68.js.map",
     "787.3368d7cf.chunk.js.map": "/kapps/static/js/787.3368d7cf.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d230d9f9.css",
-    "static/js/main.bed83735.js"
+    "static/css/main.2b6daf90.css",
+    "static/js/main.ada5cc68.js"
   ]
 }
